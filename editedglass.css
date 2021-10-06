@@ -21,9 +21,9 @@
   --border-width: 1.0px;
   --border-opacity: 0.10;
   --blur: 20.0px;
-  --blur-wallpaper: 2.0px;
+  --blur-wallpaper: 0.5px;
   --blur-titlebar: 20.0px;
-  --blur-backdrop: 6.0px;
+  --blur-backdrop: 3.5px;
   --transparency-menu: 0.8;
   --transparency-titlebar: 0.4;
   --transparency-backdrop: 0.4;
