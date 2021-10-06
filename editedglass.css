@@ -20,10 +20,10 @@
   --radius-tertiary: 6px;
   --border-width: 1.0px;
   --border-opacity: 0.10;
-  --blur: 1.5px;
-  --blur-wallpaper: 0.2px;
+  --blur: 5px;
+  --blur-wallpaper: 0.1px;
   --blur-titlebar: 20.0px;
-  --blur-backdrop: 6.0px;
+  --blur-backdrop: 4.0px;
   --transparency-menu: 0.8;
   --transparency-titlebar: 0.4;
   --transparency-backdrop: 0.4;
